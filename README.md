@@ -18,8 +18,6 @@ The inspiration came from [this classic Reddit discussion](https://www.reddit.co
 
 This was a fun little side project, and I'll likely come back to it later to enhance the documentation, improve code effectiveness and efficiency, and add other improvements. If I have enough free time, I also plan to turn this into a proper **FBM (Fun Benchmark)** - testing RAM capacity (how many 69420's can you fit in memory?), CPU performance (69420's per second), and maybe even GPU acceleration for maximum 69420 discovery rates. But for now, it works and it's fun! My goal is simple: to show the world that there is, indeed, 69420 in Pi. 🥧
 
-*Why 69420? Because math can be fun and memes make everything better.*
-
 ## 🎯 Features
 
 - **High-Precision Pi Calculation**: Uses the mpmath library for arbitrary-precision arithmetic
